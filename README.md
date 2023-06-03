@@ -6,7 +6,7 @@ Kennet Joab Guzmán Ramírez 7690-21-2903   Santos Genaro Hernández Gabriel 769
 
 ## Introducción
 
-¡Bienvenido! Este proyecto, llamado "Pruebas-Proyecto-Final", es una aplicación desarrollada en Java que te permitirá trabajar con hojas de cálculo. Con esta aplicación, podrás insertar datos en una tabla especial llamada tabla hash, verificar si existen elementos en la tabla y manipular una hoja de cálculo asignando valores a las celdas.
+¡Bienvenido! Este proyecto, llamado "EXCEL-1, es una aplicación desarrollada en Java que te permitirá trabajar con hojas de cálculo. Con esta aplicación, podrás insertar datos en una tabla especial llamada tabla hash, verificar si existen elementos en la tabla y manipular una hoja de cálculo asignando valores a las celdas.
 
 ## Requisitos del Sistema
 
@@ -20,7 +20,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas y rec
 
 ## Estructura del Código
 
-El código fuente del proyecto "Pruebas-Proyecto-Final" se organiza en varias clases principales. Aquí te presento una breve descripción de cada una de ellas:
+El código fuente del proyecto "EXCEL-1" se organiza en varias clases principales. Aquí te presento una breve descripción de cada una de ellas:
 
 - **Main**: Esta clase es el punto de entrada principal del programa. Es responsable de iniciar la aplicación JavaFX. Además, carga el archivo FXML que contiene la interfaz de usuario y muestra la ventana principal.
 
@@ -34,9 +34,9 @@ El código fuente del proyecto "Pruebas-Proyecto-Final" se organiza en varias cl
 
 ## Uso de la Aplicación
 
-Una vez que hayas configurado correctamente tu entorno de desarrollo con Apache NetBeans, JDK y JavaFX, podrás ejecutar la aplicación "Pruebas-Proyecto-Final" siguiendo estos pasos:
+Una vez que hayas configurado correctamente tu entorno de desarrollo con Apache NetBeans, JDK y JavaFX, podrás ejecutar la aplicación "EXCEL-1" siguiendo estos pasos:
 
-1. Abre el proyecto "Pruebas-Proyecto-Final" en Apache NetBeans.
+1. Abre el proyecto "EXCEL-1" en Apache NetBeans.
 
 2. Verifica que el proyecto esté configurado correctamente con las bibliotecas de JavaFX. Si no, consulta la documentación oficial de JavaFX para obtener instrucciones sobre cómo configurar JavaFX en Apache NetBeans.
 
@@ -48,8 +48,6 @@ Una vez que hayas configurado correctamente tu entorno de desarrollo con Apache 
 
 ## Conclusiones
 
-En resumen, el proyecto "Pruebas-Proyecto-Final" es una aplicación Java que te brinda funcionalidades relacionadas con hojas de cálculo. Con una estructura bien organizada y el uso de tecnologías como JavaFX y una tabla hash, podrás realizar operaciones básicas en una hoja de cálculo.
+En resumen, el proyecto "EXCEL-1" es una aplicación Java que te brinda funcionalidades relacionadas con hojas de cálculo. Con una estructura bien organizada y el uso de tecnologías como JavaFX y una tabla hash, podrás realizar operaciones básicas en una hoja de cálculo.
 
 Espero que esta documentación externa te haya sido útil para comprender los requisitos del sistema, la estructura del código y el uso de la aplicación. Si sigues los pasos mencionados, podrás configurar tu entorno de desarrollo y ejecutar la aplicación sin problemas.
-
-¡Diviértete explorando y utilizando la aplicación "Pruebas-Proyecto-Final"! Si tienes alguna pregunta o encuentras algún problema, no dudes en consultar la documentación adicional o buscar ayuda en la comunidad de desarrollo de Java. ¡Buena suerte en tu viaje de programación!
