@@ -11,7 +11,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         // Cargar el archivo FXML
-        Parent root = FXMLLoader.load(getClass().getResource("/vista/VistaHash.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("/vista/VistaExcelPrincipal.fxml"));
 
         // Crear la escena
         Scene scene = new Scene(root);
